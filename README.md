@@ -7,7 +7,6 @@
 Desde criança, os filmes do **Studio Ghibli** sempre me encantaram. Suas histórias não são apenas entretenimento, mas verdadeiras obras de arte.
 Então, quando surgiu a oportunidade de trabalhar com uma API para um projeto, pensei: **"Por que não unir programação com algo que eu gosto?"**  
 Nada mais justo do que trazer esse universo incrível pro código!
-
 ---
 
 ## 🛠️ O que eu aprendi com isso?
@@ -43,10 +42,5 @@ A Studio Ghibli me ensinou que **não existem limites entre imaginação e reali
 > **"Nada que é vivido com amor se perde."** — provavelmente algum personagem do Ghibli disse isso... se não disse, deveria!
 
 ---
-
-![Chihiro](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
----
-
 Feito por Julia de França Macena Silva
 
