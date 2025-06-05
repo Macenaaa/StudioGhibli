@@ -1,4 +1,4 @@
-# studio_ghibli
+
 # Studio Ghibli API - Por que escolhi?
 
 
