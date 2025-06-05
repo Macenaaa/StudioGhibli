@@ -1,7 +1,6 @@
 # studio_ghibli
 # Studio Ghibli API - Por que escolhi?
 
-![Totoro](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
 
 ## 🎯 Sobre a escolha
 
